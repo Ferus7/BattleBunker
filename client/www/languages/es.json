@@ -1,0 +1,13 @@
+{
+  "USERNAME": "Usuario",
+  "EMAIL": "Email",
+  "PASSWORD": "Contraseña",
+  "REGISTER": "Nuevo usuario",
+  "LOST_PASSWORD": "Recordar contraseña",
+  "BACK": "Volver",
+
+  "USER_CREATED": "El usuario ha sido creado.",
+
+  "presence" : "El campo es obligatorio",
+  "uniqueness" : "El valor ya existe en la BD"
+}
