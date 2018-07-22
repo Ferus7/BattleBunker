@@ -7,7 +7,6 @@
 // 'starter.controllers' is found in controllers.js
 var app = angular.module('warbackend', [
   'ionic',
-  'starter.controllers',
   'starter.services',
   'ngAnimate',
   'ngResource',
